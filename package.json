@@ -1,0 +1,11 @@
+{
+  "name": "@wcd/shae-clark.swc-card-fork-l03puxs4",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 58UGHjjXcJQEvlzC7ZQa --open"
+  }
+}
